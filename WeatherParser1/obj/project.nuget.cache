@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnT2/NCIISsPZ6/g+P1EeWwKk7tIl81P2Bff8kaJC6TGF5rjbwgHXFYVu2qK+/lh4anrcJqYBZgh0N69/CVYNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\intab\\source\\repos\\WeatherParser1\\WeatherParser1\\WeatherParser1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intab\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512",
+    "C:\\Users\\intab\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0\\nito.asyncex.coordination.5.1.0.nupkg.sha512",
+    "C:\\Users\\intab\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0\\nito.asyncex.tasks.5.1.0.nupkg.sha512",
+    "C:\\Users\\intab\\.nuget\\packages\\nito.collections.deque\\1.1.0\\nito.collections.deque.1.1.0.nupkg.sha512",
+    "C:\\Users\\intab\\.nuget\\packages\\nito.disposables\\2.2.0\\nito.disposables.2.2.0.nupkg.sha512",
+    "C:\\Users\\intab\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

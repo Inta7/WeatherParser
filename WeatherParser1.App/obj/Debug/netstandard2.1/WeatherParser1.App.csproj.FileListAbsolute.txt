@@ -1,0 +1,9 @@
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\bin\Debug\netstandard2.1\WeatherParser1.App.deps.json
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\bin\Debug\netstandard2.1\WeatherParser1.App.dll
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\bin\Debug\netstandard2.1\WeatherParser1.App.pdb
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\obj\Debug\netstandard2.1\WeatherParser1.App.csprojAssemblyReference.cache
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\obj\Debug\netstandard2.1\WeatherParser1.App.AssemblyInfoInputs.cache
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\obj\Debug\netstandard2.1\WeatherParser1.App.AssemblyInfo.cs
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\obj\Debug\netstandard2.1\WeatherParser1.App.csproj.CoreCompileInputs.cache
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\obj\Debug\netstandard2.1\WeatherParser1.App.dll
+C:\Users\intab\source\repos\WeatherParser1\WeatherParser1.App\obj\Debug\netstandard2.1\WeatherParser1.App.pdb
