@@ -12,10 +12,6 @@ namespace WeatherParser1.App
     public class WeatherParser : IWeatherParser
     {
         private string _htmlDocument;
-        private const string _temperatureClass = "//span[contains(@class, 'weather__temp svelte-qrnlut')]";
-        private const string _overcastClass = "//div[contains(@class, 'weather__description svelte-qrnlut')]";
-        private const string _cityClass = "//div[contains(@class, 'weather__city svelte-qrnlut')]";
-        private const string _wetClass = "//div[contains(@class, 'weather__humidity svelte-qrnlut')]";
 
         public WeatherParser(string htmlDocument)
         {
